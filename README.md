@@ -1,5 +1,5 @@
-Hi am allan koki
-Am intrested in been a well data scientist and a full stack webdeeloper
+Hi am allan koki,
+am intrested in been a well developed data scientist and a full stack webdeveloper
 Am currently learning python
 Am looking forward to colloberate with other data scientist and webdevelopers
 You can reach me via watsup number +254 741479171 or email me at allankoki254@gmail.com
